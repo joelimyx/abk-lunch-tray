@@ -1,0 +1,307 @@
+03-15 11:17:39.130 14033 14055 I TestRunner: started: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)
+03-15 11:17:39.132 14033 14055 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+03-15 11:17:39.135   582   627 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+03-15 11:17:39.136   401   401 I perfetto: ing_service_impl.cc:758 Configured tracing session 110, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:2, uid:1071 session name: ""
+03-15 11:17:39.136   395   395 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=110)
+03-15 11:17:39.138   582   627 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.139   582  4775 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.142 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef in: PRE_ON_CREATE
+03-15 11:17:39.142 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.142 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.142 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.142 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.142 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.142 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.142 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.143 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.143 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.143 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.143 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.143 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.143 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.143 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.143 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.145 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef in: CREATED
+03-15 11:17:39.145 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.145 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.145 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.145 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.145 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.145 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.145 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.146 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.146 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.146 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.146 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.146 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.146 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.146 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.146 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef in: STARTED
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.147 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.147 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.147 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.147 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.147 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.148 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.148 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.148 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.149   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ed043000]
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef in: RESUMED
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.154 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.154 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.154 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.154 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.154 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.154 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef in: PAUSED
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.155 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.155 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.155 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.155 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.155 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.156 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.156 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.156 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.156 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.156   582  4125 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.157   582  4125 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@e3e94a6 in: PRE_ON_CREATE
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.160 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.160 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.160 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.160 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.160 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+03-15 11:17:39.160 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@e3e94a6 in: CREATED
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.173 14033 14033 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.173 14033 14033 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.173 14033 14033 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.173 14033 14033 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.173 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.174 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.174 14033 14033 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.174 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@e3e94a6 in: STARTED
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.182 14033 14033 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.182 14033 14033 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.182 14033 14033 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.182 14033 14033 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.182 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.182 14033 14033 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@e3e94a6 in: RESUMED
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.183 14033 14033 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.183 14033 14033 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.183 14033 14033 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.183 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.184 14033 14033 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.184 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.184 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.184 14033 14033 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@e3e94a6
+03-15 11:17:39.184 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.188 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.200   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3ee173000 0x3ef1b6000]
+03-15 11:17:39.204   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f1043000]
+03-15 11:17:39.212   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3f2086000 0x3f30c9000]
+03-15 11:17:39.213   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3f5043000 0x3f6086000]
+03-15 11:17:39.223 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.224 14033 14033 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef in: STOPPED
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.226 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.226 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@2abdc68
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.226 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@355dded
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.226 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@943f013
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.226 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@964f0ef
+03-15 11:17:39.226 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@93d97fc
+03-15 11:17:39.233   582   634 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/com.example.lunchtray.MainActivity/compiled_traces/compiled_trace.pb doesn't exist
+03-15 11:17:39.234   582   634 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +98ms
+03-15 11:17:39.235   582   627 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+03-15 11:17:39.235 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.235 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.235 14033 14033 D RootViewPicker: Root not ready - waiting: 25ms for one to appear.
+03-15 11:17:39.266 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.266 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.266 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/start_order_btn>
+03-15 11:17:39.284 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.314 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:39.314 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.325   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:39.347 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.347 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.458   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:39.498 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.563 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:39.563 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.564 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/cauliflower>
+03-15 11:17:39.565 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.605 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:39.605 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.615   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:39.647 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.647 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.746   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:39.798 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.864 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:39.864 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.865 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/next_button>
+03-15 11:17:39.866 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.906 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:39.907 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.922   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:39.949 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:39.949 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.055   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:40.100 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.165 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:40.165 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.165 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/salad>
+03-15 11:17:40.167 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.208 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:40.208 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.215   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:40.247 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.247 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.343   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:40.397 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.462 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:40.462 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.462 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/next_button>
+03-15 11:17:40.464 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.504 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:40.504 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.520   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:40.547 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.547 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.653   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:40.698 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.763 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:40.763 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.763 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/bread>
+03-15 11:17:40.765 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.804 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:40.804 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.815   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:40.849 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.849 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:40.940   582  4125 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:40.999 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.063 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:41.063 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.064 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/next_button>
+03-15 11:17:41.066 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.106 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:41.106 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.118   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:41.148 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.148 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.250   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:41.298 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.363 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:41.363 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.363 14033 14033 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=with text: a string containing "Subtotal: $10.00"}' assertion on view with id is <com.example.lunchtray:id/subtotal>
+03-15 11:17:41.364 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.364 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.364 14033 14033 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=with text: a string containing "Tax: $0.80"}' assertion on view with id is <com.example.lunchtray:id/tax>
+03-15 11:17:41.364 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.364 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:41.365 14033 14033 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=with text: a string containing "Total: $10.80"}' assertion on view with id is <com.example.lunchtray:id/total>
+03-15 11:17:41.365 14033 14055 I TestRunner: finished: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)

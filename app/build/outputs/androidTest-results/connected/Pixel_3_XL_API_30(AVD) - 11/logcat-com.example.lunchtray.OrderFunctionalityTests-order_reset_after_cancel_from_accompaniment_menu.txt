@@ -1,0 +1,187 @@
+03-15 11:17:28.017 14033 14055 I TestRunner: started: order_reset_after_cancel_from_accompaniment_menu(com.example.lunchtray.OrderFunctionalityTests)
+03-15 11:17:28.020 14033 14055 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+03-15 11:17:28.022   582   627 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+03-15 11:17:28.024   401   401 I perfetto: ing_service_impl.cc:758 Configured tracing session 107, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:2, uid:1071 session name: ""
+03-15 11:17:28.025   395   395 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=107)
+03-15 11:17:28.026   582   627 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.026   582  4775 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.027   582  4775 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.027   582  4775 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.027   582  4775 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.033 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff in: PRE_ON_CREATE
+03-15 11:17:28.033 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.033 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff
+03-15 11:17:28.033 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.037 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff in: CREATED
+03-15 11:17:28.037 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.037 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff
+03-15 11:17:28.037 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.039 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff in: STARTED
+03-15 11:17:28.040 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.040 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff
+03-15 11:17:28.040 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.043 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff in: RESUMED
+03-15 11:17:28.043 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.043 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff
+03-15 11:17:28.043 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.044 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff in: PAUSED
+03-15 11:17:28.044 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.044 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff
+03-15 11:17:28.044 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.045   582  4775 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+03-15 11:17:28.050   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3ed130000 0x3ee173000]
+03-15 11:17:28.065 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@68076da in: PRE_ON_CREATE
+03-15 11:17:28.065 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.065 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+03-15 11:17:28.066 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.118 14033 14033 W ample.lunchtra: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+03-15 11:17:28.118 14033 14033 W ample.lunchtra: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+03-15 11:17:28.132 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@68076da in: CREATED
+03-15 11:17:28.132 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.132 14033 14033 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@68076da
+03-15 11:17:28.132 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.155 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@68076da in: STARTED
+03-15 11:17:28.155 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.155 14033 14033 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@68076da
+03-15 11:17:28.155 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.156 14033 14033 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@68076da in: RESUMED
+03-15 11:17:28.156 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.156 14033 14033 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@68076da
+03-15 11:17:28.156 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.159 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.172   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3ee173000 0x3ef1b6000]
+03-15 11:17:28.175   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3f1043000 0x3f2086000]
+03-15 11:17:28.176   314   343 D goldfish-address-space: claimShared: Ask to claim region [0x3f2086000 0x3f30c9000]
+03-15 11:17:28.186   582   634 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/com.example.lunchtray.MainActivity/compiled_traces/compiled_trace.pb doesn't exist
+03-15 11:17:28.187   582   627 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+03-15 11:17:28.188   582   634 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +163ms
+03-15 11:17:28.214 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.215 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/start_order_btn>
+03-15 11:17:28.226 14033 14033 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff in: STOPPED
+03-15 11:17:28.226 14033 14033 D LifecycleMonitor: running callback: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.226 14033 14033 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@7a7f3ff
+03-15 11:17:28.226 14033 14033 D LifecycleMonitor: callback completes: androidx.test.core.app.ActivityScenario$1@514c5cc
+03-15 11:17:28.234 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.257 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 8 lines
+03-15 11:17:28.257 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.259   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:28.314 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.314 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.392   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:28.465 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.531 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:28.531 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.531 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/cauliflower>
+03-15 11:17:28.533 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.572 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:28.572 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.591   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:28.614 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.614 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.724   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:28.766 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.833 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:28.833 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.834 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/next_button>
+03-15 11:17:28.836 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.876 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:28.877 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.883   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:28.922 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:28.922 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.012   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:29.073 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.138 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:29.138 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.139 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/soup>
+03-15 11:17:29.141 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.181 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:29.181 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.199   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:29.232 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.264 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.321   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:29.414 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.479 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:29.479 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.479 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/next_button>
+03-15 11:17:29.481 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.520 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:29.520 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.542   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:29.564 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.564 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.676   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:29.715 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.780 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:29.780 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.780 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/bread>
+03-15 11:17:29.782 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.823 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 12 lines
+03-15 11:17:29.823 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.833   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:29.864 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.864 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:29.963   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:30.015 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.082 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:30.082 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.083 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/cancel_button>
+03-15 11:17:30.085 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.123 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 10 lines
+03-15 11:17:30.123 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.140   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:30.163 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.164 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.273   582   687 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:30.314 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.379 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:30.379 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.380 14033 14033 I ViewInteraction: Performing 'single click' action on view with id is <com.example.lunchtray:id/start_order_btn>
+03-15 11:17:30.397 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.421 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 8 lines
+03-15 11:17:30.421 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.428   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:30.460 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.460 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.560   582  2300 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+03-15 11:17:30.611 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.676 14033 14033 I chatty  : uid=10126(com.example.lunchtray) identical 4 lines
+03-15 11:17:30.676 14033 14033 D IdlingResourceRegistry: All idling resources are idle.
+03-15 11:17:30.677 14033 14033 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=is displayed on the screen to the user}' assertion on view with text: is "Subtotal: $0.00"
+03-15 11:17:30.677 14033 14055 I TestRunner: finished: order_reset_after_cancel_from_accompaniment_menu(com.example.lunchtray.OrderFunctionalityTests)
